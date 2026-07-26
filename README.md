@@ -123,8 +123,6 @@ Contributions, suggestions, and feedback are welcome.
 
 **GitHub:** https://github.com/sowk6996-glitch
 
-**Portfolio:** https://sowk6996-glitch.github.io/your-repository-name/
-
 ---
 
 ## 📄 License
