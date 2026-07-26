@@ -10,11 +10,8 @@ The portfolio serves as a central platform where visitors can learn more about m
 
 ## 🚀 Live Demo
 
-🌐 Portfolio Website:
-https://sowk6996-glitch.github.io/your-repository-name/
-
-💻 GitHub Repository:
-https://github.com/sowk6996-glitch/your-repository-name
+🌐 Wonderla Website:
+https://drive.google.com/file/d/1maREGpPKyJjYZ40pIA_G6_5fB7fx_AP7/view?usp=sharing
 
 ---
 
