@@ -1,0 +1,94 @@
+/* General Styling */
+body{
+    margin:0;
+    padding:20px;
+    font-family:Arial,sans-serif;
+    text-align:center;
+    color:white;
+    animation:fadeIn 1.5s;
+}
+
+/* Home Page */
+body{
+    background:linear-gradient(to bottom,#004aad,#60a6ff);
+}
+
+.logo{
+    font-size:40px;
+    font-weight:bold;
+    margin-top:40px;
+    animation:bounce 1.5s infinite;
+}
+
+img{
+    width:130px;
+    margin-top:20px;
+}
+
+/* Form */
+form{
+    background:white;
+    width:320px;
+    margin:40px auto;
+    padding:20px;
+    border-radius:10px;
+    color:black;
+}
+
+input,
+select{
+    width:95%;
+    padding:10px;
+    margin-top:10px;
+    border:1px solid #777;
+    border-radius:6px;
+}
+
+/* Terms Box */
+.box{
+    background:white;
+    color:black;
+    padding:15px;
+    border-radius:10px;
+    max-width:700px;
+    margin:auto;
+    text-align:left;
+}
+
+/* Button */
+button{
+    padding:12px 28px;
+    margin-top:20px;
+    background:#004aad;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:bold;
+}
+
+button:hover{
+    background:#003377;
+}
+
+/* Heading Animation */
+h1{
+    animation:pop 1.3s infinite;
+}
+
+/* Animations */
+@keyframes bounce{
+    0%,100%{transform:translateY(0);}
+    50%{transform:translateY(-10px);}
+}
+
+@keyframes fadeIn{
+    from{opacity:0;}
+    to{opacity:1;}
+}
+
+@keyframes pop{
+    0%,100%{transform:scale(1);}
+    50%{transform:scale(1.1);}
+}
